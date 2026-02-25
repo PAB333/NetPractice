@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by pibreiss*
+*This project has been created as part of the 42 curriculum by pibreiss.*
 
 ## **Description**
 The **NetPractice** project is a set of 10 exercises designed to help you understand how a network works. To complete **NetPractice**, you need to have a good understanding of TCP/IP. Throughout these exercises, we will learn about IP addresses, subnet masks, switches, routers, and more.
