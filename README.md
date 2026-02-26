@@ -12,19 +12,23 @@ https://www.fortinet.com/fr/resources/cyberglossary/tcp-ip - to understand what 
 https://cric.grenoble.cnrs.fr/Administrateurs/Outils/CalculMasque/ - to calculate the ranges for IP addresses along with their subnet masks\
 https://talks.freelancerepublik.com/regles-ecrire-readme-md-github/ - to learn how to create a readme
 
-### What is a subnet mask ?
-
-### What is a default gateway ?
-
-### What is a router ?
-
-### What is a switch ?
-
 ### What is OSI LAYERS ?
 The OSI model is a theoretical framework that divides communications between two computer systems into seven layers, ranging from the user to the cable. It provides a step-by-step understanding of how data is transmitted.
 
 ### What is TCP/IP ?
-It is a practical and simplified implementation of the OSI model. It contains four layers. 
+It is a practical and simplified implementation of the OSI model. It contains four layers. This is the standard architecture on which the Internet operates today.
+
+### What is a subnet mask ?
+It is a series of numbers that always accompanies an IP address. Its purpose is to divide the IP address into two parts, one part that identifies the network and the other that identifies the host.
+
+### What is a default gateway ?
+This is the exit point of a local network. It is the IP address of the router to which a device sends all its data packets by default when the destination address is not on its own subnet.
+
+### What is a router ?
+It is used to connect different networks together. It operates on Layer 3 of the OSI model (Network) and uses IP addresses. It reads the destination IP of a packet, consults its routing table, and decides on the best path to send the packet to the next network.
+
+### What is a switch ?
+It connects several devices (computers, printers, servers) to each other within the same local area network. It operates on Layer 2 of the OSI Model (Data Link) and uses the physical MAC addresses of the devices.
 
 ## **AI Usage**
 I used AI to understand certain concepts in NetPractice, as well as how to create a README file.
